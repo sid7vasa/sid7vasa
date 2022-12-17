@@ -1,7 +1,7 @@
 - 👋 Hi, I’m SID
 - 👀 I’m interested in Deep Learning based Computer Vision. 
 - 🌱 I’m currently learning:
-  -  self-supervision methods in computer vision.
+  -  Self-supervision methods in Computer Vision.
   -  GANs and Diffusion models.
   -  Perception methods.
   -  Sensor Fusion in Deep Learning.
