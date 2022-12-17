@@ -5,7 +5,7 @@
   -  GANs and Diffusion models.
   -  Perception methods.
   -  Sensor Fusion in Deep Learning.
-- 💞️ I’m looking to collaborate on self-supervision modelling and perception topics.
+- 🧑‍🤝‍🧑 I’m looking to collaborate on self-supervision modelling and perception topics.
 - 📫 How to reach me: santosh7vasa@outlook.com
 
 <!---
